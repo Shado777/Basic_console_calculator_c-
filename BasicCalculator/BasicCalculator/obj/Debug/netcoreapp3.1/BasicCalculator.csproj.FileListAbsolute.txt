@@ -1,0 +1,13 @@
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.exe
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.deps.json
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.json
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.dev.json
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.dll
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.pdb
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csprojAssemblyReference.cache
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfoInputs.cache
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfo.cs
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.dll
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.pdb
+D:\Programing\pData\C#\Github\Basic_console_calculator_c-\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.genruntimeconfig.cache
